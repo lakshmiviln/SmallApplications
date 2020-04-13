@@ -1,2 +1,2 @@
 # SmallApplications
-Solving few realtime problems
+trying out and Solving few real time problems
