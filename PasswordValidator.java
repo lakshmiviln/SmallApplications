@@ -1,4 +1,4 @@
-package chater8;
+package small_applications;
 
 import java.util.Scanner;
 
